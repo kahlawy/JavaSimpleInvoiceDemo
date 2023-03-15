@@ -37,6 +37,7 @@ public class frmMain extends JFrame {
 	}
 
 	/**
+	 * Main Form
 	 * Create the frame.
 	 */
 	public frmMain() {
